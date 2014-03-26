@@ -21,6 +21,20 @@ The Songkick API gives you easy access to the biggest live music database in the
 http://www.songkick.com/developer
 
 
+Ticketmáster
+============
+
+Es una app para adquisición de entradas, habrá que ver si tiene disponible api para conectar con esta app y ofrecer el servicio de adquisición de entradas.
+
+https://play.google.com/store/apps/details?id=com.ticketmaster.mobile.android.uk
+
+Ticketmate
+============
+
+App muy similar a Ticketmáster
+
+https://play.google.com/store/apps/details?id=com.apst.ticketsmate
+
 last.fm
 =======
 
@@ -50,7 +64,10 @@ http://instagram.com/developer/
 http://tools.ietf.org/html/draft-ietf-oauth-v2-12
 
 
-A esto habría que añadir Google maps.
+
+
+A todo esto habría que añadir Google maps.
+------------------------------------------
 
 
 
